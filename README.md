@@ -1,2 +1,2 @@
-# workshop2022
-DialDoc Workshop Proposal
+# MICCAI 2025
+ClinicalMLLMs Workshop
